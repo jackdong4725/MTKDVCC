@@ -1,0 +1,8 @@
+| ablation | dataset | mae | rmse | per_frame_mae | prefix |
+|---|---|---|---|---|---|
+| no_countvid | all | -1.0 | -1.0 | -1.0 | ablation_no_countvid |
+| no_crowdmpm | all | -1.0 | -1.0 | -1.0 | ablation_no_crowdmpm |
+| no_oman | all | -1.0 | -1.0 | -1.0 | ablation_no_oman |
+| no_graspmamba | all | -1.0 | -1.0 | -1.0 | ablation_no_graspmamba |
+| no_aug | all | -1.0 | -1.0 | -1.0 | ablation_no_aug |
+| no_difficulty | all | -1.0 | -1.0 | -1.0 | ablation_no_difficulty |
